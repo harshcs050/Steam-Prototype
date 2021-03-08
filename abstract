@@ -1,0 +1,11 @@
+This Web Technology Mini Project showcases that website provides the user to purchase 
+games and gaming products. The website provides a login page, catalogue of items and 
+search bar for the user to use the website and purchase items. 
+The user can browse through the website for his desired item without logging in. For 
+purchase, saving item to cart or creating a wish list the user has to login with his credentials.
+Website provides the user a glimpse of the item through videos and images before 
+purchasing the product. The product database will contain the product’s name, images, 
+videos, price, etc. and when a user creates an account their credentials are stored to the user 
+database. Products can be searched from the search bar provided.
+Admin can edit the catalogue through the product database to add or delete products and in 
+user database admin can analyse the number of users logged in to the website.
